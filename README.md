@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kaizen63
-- 👀 I’m interested in Learning Kubernetes and AKS
 - 🌱 I’m currently learning Python, Datadog, Azure
 
 <!---
